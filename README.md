@@ -1,24 +1,29 @@
-# ANALISIS KINERJA BISNIS E-COMMERCE DENGAN PENGGUNAAN SQL
+# BUSINESS PERFORMANCE ANALYSIS OF E-COMMERCE USING SQL
 
+## Case Study
 
-## Study Case
-
-Dalam proyek mini ini, saya memegang peran sebagai anggota tim Data Analytics di salah satu perusahaan e-Commerce terbesar di Amerika Selatan. Perusahaan ini bertugas menghubungkan pelaku bisnis mikro dengan pelanggan mereka. Tugas utama saya adalah melakukan analisis terhadap tiga aspek kunci terkait performa bisnis, yaitu pertumbuhan pelanggan, performa produk, dan metode pembayaran. 
+In this mini project, I played the role of a Data Analytics team member at one of the largest e-Commerce companies in South America. The company connects micro-businesses with their customers. My main tasks included analyzing three key aspects related to business performance: customer growth, product performance, and payment methods.
 
 ## Objectives
-1. data modelling
-membuat ERD untuk menghubungkan data-data yang tersedia
-2. melakukan query data untuk menghasilkan master table yangberisi data untuk menjawab pertanyaan bisnis
-3. melakukan visualisasi data unutk melakukan analisis terhadap pertumbuhan pelanggan, kualitas produk, dan metode pembayaran
-4. memberikan rekomendasi bisnis untuk meningkatkan performa bisnis ke depannya
 
+1. **Data Modeling:**
+   - Created an Entity-Relationship Diagram (ERD) to connect available data.
+
+2. **Data Querying:**
+   - Executed SQL queries to generate a master table for answering business questions.
+
+3. **Data Visualization:**
+   - Conducted data visualization for analyzing customer growth, product quality, and payment methods.
+
+4. **Business Recommendations:**
+   - Provided business recommendations to enhance future business performance.
 
 ## Data & Tools
 
-1. **Data**
+1. **Data:**
    - [Link to Data](https://github.com/aghulams/Analyzing-Ecommerce-Business-Performance-With-SQL/tree/main/Dataset)
 
-2. **Tools**
+2. **Tools:**
    - PostgreSQL for data handling.
    - Power BI for data visualization.
 
@@ -30,8 +35,7 @@ membuat ERD untuk menghubungkan data-data yang tersedia
 ### Entity-Relationship Diagram (ERD)
 - ![Link to ERD](Pic/ERD_analyzing-ecomerce-business-performance_project.png)
 
-
-### Data Vizualitation
+### Data Visualization
 
 #### Customer's Growth
 - ![Link to Overall Performance](Pic/customers_growth.png)
@@ -47,16 +51,57 @@ membuat ERD untuk menghubungkan data-data yang tersedia
 
 ## Business Recommendations
 
-### 1. Focus on High-Revenue Products
-   - Develop advertising campaigns highlighting unique features.
-   - Collaborate with influencers to showcase product capabilities.
-   - Create visually appealing content for online and offline channels.
+### Customer Growth
 
-### 2. Optimize Sales with Targeted Promotions Based on City
-   - Offer discounts and free shipping in underperforming cities.
-   - Cross-sell in high-performing cities with kits and ebooks.
-   - Introduce a loyalty program for repeat orders.
+1. **Optimize User Experience:**
+   - Ensure the website or app is user-friendly with intuitive design and clear navigation.
+   - Optimize responsiveness across devices for an optimal user experience.
 
-### 3. Counteract Post-June Decline
-   - Introduce time-sensitive promotions during the post-June period.
-   - Plan strategic product launches or updates to maintain customer interest.
+2. **Data-Driven Marketing:**
+   - Utilize customer data for personalized marketing messages.
+   - Analyze data to identify market trends and opportunities.
+   - Leverage analytics and AI for effective marketing strategies.
+
+3. **Loyalty and Reward Programs:**
+   - Develop loyalty programs with discounts, reward points, or exclusive benefits to encourage customer retention.
+
+4. **Personalized Customer Experience:**
+   - Create personalized experiences based on customer preferences through targeted marketing strategies or customer behavior identification technology.
+
+5. **Customer Feedback and Surveys:**
+   - Collect customer feedback to gain valuable insights for product, service, and transaction process improvements.
+
+### Product Performance
+
+1. **Diversify Product Portfolio:**
+   - Continuously diversify products as top revenue categories may vary each year.
+   - Identify new market trends and opportunities for product line expansion.
+
+2. **Focus on High-Growth Categories:**
+   - Explore other high-performing categories alongside the top product to maximize revenue potential.
+
+3. **Maintain Product Quality in "health_beauty":**
+   - Focus on maintaining or improving the quality of products in the "health_beauty" category to reduce cancellations and ensure customer satisfaction.
+
+4. **Analyze Cancellation Reasons:**
+   - Understand the reasons behind cancellations to reduce the number of canceled products.
+
+5. **Improve Delivery Process and Customer Service:**
+   - Ensure efficient and responsive delivery processes and customer service to provide a good experience.
+
+### Payment Methods
+
+1. **Promotional Campaigns for Specific Payment Types:**
+   - Collaborate with payment method issuers for promotional campaigns to increase the use of specific payment types.
+
+2. **Payment Education:**
+   - Provide additional information or guides on effectively using each payment method.
+
+3. **Transaction Security Enhancement:**
+   - Ensure high-security levels for all payment methods to avoid fraud or security risks.
+
+4. **Integration of Additional Payment Methods:**
+   - Consider adding more payment options popular in specific regions or countries.
+
+5. **Customer Surveys and Feedback:**
+   - Gather feedback from customers about their experiences with payment methods to make necessary improvements or adjustments.
