@@ -3,7 +3,7 @@
 
 ## Study Case
 
-Dalam proyek mini ini, saya memegang peran sebagai anggota tim Data Analytics di salah satu perusahaan e-Commerce terbesar di Amerika Selatan. Perusahaan ini bertugas menghubungkan pelaku bisnis mikro dengan pelanggan mereka. Tugas utama saya adalah melakukan analisis terhadap tiga aspek kunci terkait performa bisnis, yaitu pertumbuhan pelanggan, kualitas produk, dan metode pembayaran. 
+Dalam proyek mini ini, saya memegang peran sebagai anggota tim Data Analytics di salah satu perusahaan e-Commerce terbesar di Amerika Selatan. Perusahaan ini bertugas menghubungkan pelaku bisnis mikro dengan pelanggan mereka. Tugas utama saya adalah melakukan analisis terhadap tiga aspek kunci terkait performa bisnis, yaitu pertumbuhan pelanggan, performa produk, dan metode pembayaran. 
 
 ## Objectives
 1. data modelling
@@ -31,20 +31,19 @@ membuat ERD untuk menghubungkan data-data yang tersedia
 - ![Link to ERD](Pic/ERD_analyzing-ecomerce-business-performance_project.png)
 
 
-### Performance Analysis
+### Data Vizualitation
 
-#### Overall Business Performance
-- ![Link to Overall Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/overall_performance.png)
+#### Customer's Growth
+- ![Link to Overall Performance](Pic/customer's growth.png)
 
 #### Top Performing Products
-- ![Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_1.png)
-- ![Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_2.png)
+- ![Link to Top Products](Pic/top product.png)
 
-#### Top Performing Cities
-- ![Link to Top Cities](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_performing_city.png)
+#### Most Canceled Products
+- ![Link to Top Cities](Pic/most canceled product.png)
 
-#### Monthly Performance
-- ![Link to Monthly Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/performance_trending.png)
+#### Monthly Used Payment Method
+- ![Link to Monthly Performance](Pic/most used payment method.png)
 
 ## Business Recommendations
 
