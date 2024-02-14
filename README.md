@@ -34,16 +34,16 @@ membuat ERD untuk menghubungkan data-data yang tersedia
 ### Data Vizualitation
 
 #### Customer's Growth
-- ![Link to Overall Performance](Pic/customer's growth.png)
+- ![Link to Overall Performance](Pic/customers_growth.png)
 
 #### Top Performing Products
-- ![Link to Top Products](Pic/top product.png)
+- ![Link to Top Products](Pic/top_product.png)
 
 #### Most Canceled Products
-- ![Link to Top Cities](Pic/most canceled product.png)
+- ![Link to Top Cities](Pic/most_canceled_product.png)
 
 #### Monthly Used Payment Method
-- ![Link to Monthly Performance](Pic/most used payment method.png)
+- ![Link to Monthly Performance](Pic/most_used_payment_method.png)
 
 ## Business Recommendations
 
